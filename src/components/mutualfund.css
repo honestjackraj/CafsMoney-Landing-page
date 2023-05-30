@@ -1,0 +1,77 @@
+.mutualfund-all {
+    align-items: center;
+    justify-content: center;
+    margin-top: 90px;
+    width: 1100px;
+    border-color: black;
+    border-radius: 50px;
+    background: linear-gradient(rgba(213, 222, 255, 0.3) 0%, rgb(255, 255, 255) 100%);
+
+
+  }
+  
+  .mutualfund-all {
+    height: 500px;
+    border-radius: 20px;
+    box-shadow: 2px 11px 16px 0px grey;
+  }
+  .mutual-head{
+        font-size: 20px!important;
+        font-weight: 600!important;
+        font-family: "Nunito",sans-serif!important;
+        color: var(--cafsBlue);
+      }
+    
+ 
+  .mutual-para{
+    
+    font-size: 16px!important;
+    font-family: "Nunito",sans-serif!important;
+
+  }
+  
+ 
+  
+  .mutualcardbox{
+    margin-top: 30PX;
+    box-sizing: border-box;
+    display: flex;
+    flex-flow: row wrap;
+    width: 100%;
+    -webkit-box-align: stretch;
+    align-items: stretch;
+    column-gap: 20px;
+   
+
+}
+.mutual-cardbox{
+    display: flex;
+ 
+    width: 67rem;
+    font-size: small;
+    column-gap: 20px;
+   
+   
+}
+  
+  .mutualcardbox{
+    display: block;
+    width: 270px;
+    height: 300px;
+    border-radius: 5px;
+
+  }
+  
+  .mutualcardbox:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+    background-color: aliceblue;
+  }
+  
+  .mutal-img{
+    border-radius: 50%;
+    box-shadow: 2px 11px 26px rgb(189, 236, 230);
+    height: 110px;
+  
+  
+  }
